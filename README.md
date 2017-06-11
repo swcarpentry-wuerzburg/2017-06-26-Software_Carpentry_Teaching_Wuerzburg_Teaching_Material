@@ -13,26 +13,26 @@ introduction for novices to the Unix Shell, Python and git.
 
 ### 2.1 Welcome and introduction [9:00 - 9:30]
 
-- [ ] Introduction of the instructors and helpers
-- [ ] Name tags
-- [ ] Introduction of the participants
-- [ ] Ice breaker - Sort people by the following values:
-- [ ] [Code of Conduct](https://software-carpentry.org/conduct.html) => Be excellent to each other!
-- [ ] Photos
-- [ ] Breaks
-- [ ] Material of the course
+- Introduction of the instructors and helpers
+- Name tags
+- Introduction of the participants
+- Ice breaker - Sort people by the following values:
+- [Code of Conduct](https://software-carpentry.org/conduct.html) => Be excellent to each other!
+- Photos
+- Breaks
+- Material of the course
   - https://github.com/swcarpentry-wuerzburg/2017-06-26-Software_Carpentry_Teaching_Wuerzburg_Teaching_Material
     https://swcarpentry.github.io/shell-novice/
   - https://swcarpentry.github.io/git-novice/
-- [ ] The etherpad
+- The etherpad
     - [http://pad.software-carpentry.org/2017-06-26-munich](http://pad.software-carpentry.org/2017-06-26-munich)
     - Short URL: [http://bit.ly/2orL52i](http://bit.ly/2orL52i)
     - Exercise - add your name to the list of participants
-- [ ] Motivation
+- Motivation
     - Access to tools that only have CLI
     - Automation
     - Reproducibility / Transparency
-- [ ] Who has still issue with installation?
+- Who has still issue with installation?
 
 ### 2.2 Unix Shell (Konrad) [9:30 - 12:00]
 
