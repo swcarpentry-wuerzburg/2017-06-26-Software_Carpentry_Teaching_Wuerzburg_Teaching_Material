@@ -42,7 +42,7 @@ introduction for novices to the Unix Shell, Python and git.
 - `for` loops
 - Shell scripting
 
-### 2.3 Python (Marku and Konrad) [13:00 - 16:00]
+### 2.3 Python [13:00 - 16:00]
 
 #### 2.3.0 Check Jupyter notebook
 
