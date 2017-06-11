@@ -71,6 +71,8 @@ introduction for novices to the Unix Shell, Python and git.
 - Exploring History
 - Ignoring things
 - Remote repositories
+- [GitHub](https://github.com/)
+- [GitLab instance at Uni Würzburg](http://git.physik.uni-wuerzburg.de/)
 
 ### 2.5 Open Session [13:00 - 16:00]
 
