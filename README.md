@@ -11,7 +11,7 @@ introduction for novices to the Unix Shell, Python and git.
 
 ### 2.0 Check installation while people are arriving
 
-### 2.1 Welcome and introduction [9:00 - 9:30]
+### 2.1 Welcome and introduction
 
 - Introduction of the instructors and helpers
 - Name tags
@@ -34,7 +34,7 @@ introduction for novices to the Unix Shell, Python and git.
     - Reproducibility / Transparency
 - Who has still issue with installation?
 
-### 2.2 Unix Shell (Konrad) [9:30 - 12:00]
+### 2.2 Unix Shell (Konrad)
 
 - Files, folders, locations
 - Manipulating files and folders
@@ -42,7 +42,7 @@ introduction for novices to the Unix Shell, Python and git.
 - `for` loops
 - Shell scripting
 
-### 2.3 Python [13:00 - 16:00]
+### 2.3 Python
 
 #### 2.3.0 Check Jupyter notebook
 
@@ -57,12 +57,12 @@ introduction for novices to the Unix Shell, Python and git.
 - Conditionals `if` `else` startement
 - `for` loop
 
-#### 2.3.2 Session 2 (Konrad):
+#### 2.3.2 Session 2 (Konrad)
 
 - Function definition
 - Writing Python scripts
 
-### 2.4 Git (Florian) [9:00 - 12:00]
+### 2.4 Git (Florian)
 
 - [The Softare Carpentry Git lesson](https://swcarpentry.github.io/git-novice/)
 - Setup
