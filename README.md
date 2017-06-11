@@ -26,7 +26,7 @@ introduction for novices to the Unix Shell, Python and git.
   - https://swcarpentry.github.io/git-novice/
 - The etherpad
     - [http://pad.software-carpentry.org/2017-06-26-munich](http://pad.software-carpentry.org/2017-06-26-munich)
-    - Short URL: [http://bit.ly/2orL52i](http://bit.ly/2orL52i)
+    - Short URL: [http://bit.ly/2r7ujHj](http://bit.ly/2r7ujHj)
     - Exercise - add your name to the list of participants
 - Motivation
     - Access to tools that only have CLI
@@ -79,7 +79,7 @@ topics like open source / open content licenses, open science practices,
 reproducible research.
 
 - Fill out the [post- workshop survey of
-  SWC](https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id=2016-10-26-Wuerzburg)
+  SWC](https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id=2017-06-11-Wuerzburg)
 - Fill out the feedback form of the GSLS
 
 ### 2.6 Discussion and feedback [16:00 - 16:30]
@@ -131,6 +131,7 @@ reproducible research.
 
 ## 5 License
 
-This work by Konrad Förstner and Florian Thöle is licensed under a
-[Creative Commons Attribution 4.0 International
-License](https://creativecommons.org/licenses/by/4.0/).
+This work by Markus Ankenbrand, Florian Goth and Konrad Förstner is
+licensed under
+a
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
