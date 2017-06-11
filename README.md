@@ -25,7 +25,7 @@ introduction for novices to the Unix Shell, Python and git.
     https://swcarpentry.github.io/shell-novice/
   - https://swcarpentry.github.io/git-novice/
 - The etherpad
-    - [http://pad.software-carpentry.org/2017-06-26-munich](http://pad.software-carpentry.org/2017-06-26-munich)
+    - [http://pad.software-carpentry.org/p/2017-06-26-Wuerzburg](http://pad.software-carpentry.org/p/2017-06-26-Wuerzburg)
     - Short URL: [http://bit.ly/2r7ujHj](http://bit.ly/2r7ujHj)
     - Exercise - add your name to the list of participants
 - Motivation
