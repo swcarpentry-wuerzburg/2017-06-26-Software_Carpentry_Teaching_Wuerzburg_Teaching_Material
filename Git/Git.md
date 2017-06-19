@@ -7,8 +7,8 @@ See also:
 ## Setup
 Set global configuration
 ```{bash}
-git config --global user.name "Vlad Dracula"
-git config --global user.email "vlad@tran.sylvan.ia"
+git config --global user.name "John Doe"
+git config --global user.email "mail@example.com"
 git config --global color.ui "auto"
 ```
 List all configured values
