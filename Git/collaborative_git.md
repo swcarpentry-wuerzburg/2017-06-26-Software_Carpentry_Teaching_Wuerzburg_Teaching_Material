@@ -1,5 +1,17 @@
 ## Use the web-interface to create a repository ##
 (Master permissions are necessary for that in groups)
+
+Showing the web interface:
+ - login page https://git.physik.uni-wuerzburg.de
+ - Project overview: New project button, issues, todo, profile
+ - group overview
+ - create a personal project: My thesis
+ - Describe the project page(see ALF, it is the most complete that we have)
+ - parts: Files browser, commits, cloning address
+ - title: Activity, Issue tracking, Wiki
+ - create a project in a group
+
+ -> clone the repository
 - Create a personal project in the swc group repository 
 - pull - change - push cycle
 - check back to the web-page to observe the changes.
