@@ -46,7 +46,7 @@ introduction for novices to the Unix Shell, Python and git.
 
 #### 2.3.0 Check Jupyter notebook
 
-#### 2.3.1 Session 1 (Florian):
+#### 2.3.1 Session 1 (Markus/Konrad):
 
 - Print, literal constants
 - Variables
@@ -61,10 +61,11 @@ introduction for novices to the Unix Shell, Python and git.
 
 - Function definition
 - Writing Python scripts
+- numpy
 
 ### 2.4 Git (Florian)
 
-- [The Softare Carpentry Git lesson](https://swcarpentry.github.io/git-novice/)
+- [The Software Carpentry Git lesson](https://swcarpentry.github.io/git-novice/)
 - Setup
 - Creating a Repository
 - Tracking Changes
@@ -82,7 +83,6 @@ reproducible research.
 
 - Fill out the [post- workshop survey of
   SWC](https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id=2017-06-11-Wuerzburg)
-- Fill out the feedback form of the GSLS
 
 ### 2.6 Discussion and feedback [16:00 - 16:30]
 
