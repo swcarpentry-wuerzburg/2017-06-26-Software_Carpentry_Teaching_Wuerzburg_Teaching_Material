@@ -63,7 +63,7 @@ introduction for novices to the Unix Shell, Python and git.
 - Writing Python scripts
 - numpy
 
-### 2.4 Git (Florian)
+### 2.4 Git (Markus/Florian)
 
 - [The Software Carpentry Git lesson](https://swcarpentry.github.io/git-novice/)
 - Setup
