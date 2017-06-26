@@ -117,7 +117,7 @@ Add `.gitignore` and commit your changes.
 To work with remote repositories, e.g. on GitLab important commands are
 ```{bash}
 # Clone a repository to your local machine
-git clone https://git.physik.uni-wuerzburg.de/itpa-computers/faiconfigspace.git
+git clone https://fgoth@git.physik.uni-wuerzburg.de/SWC-06-2017/publicproject.git
 # Get changes from the server
 git pull
 # Publish your local changes on the server
