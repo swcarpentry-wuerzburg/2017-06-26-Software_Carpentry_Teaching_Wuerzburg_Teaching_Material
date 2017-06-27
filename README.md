@@ -86,16 +86,8 @@ reproducible research.
 
 ### 2.6 Discussion and feedback [16:00 - 16:30]
 
-## 3 Sources
 
-- Python - Was created based on [a SWC course by Malvika Sharan and
-  Toby
-  Hodges](https://github.com/malvikasharan/Software_carpentry_EMBL)
-- Git - Was created based on the [Software Carpentry introduction to
-  Git for novices](https://github.com/swcarpentry/git-novice) course maintained by
-  Ivan Gonzalez and Daisie Huang
-
-## 4 Links and hints from our discussions
+## 3 Links and hints from our discussions
 
 - Text Editors / IDEs (integrated development environment)
   - Try for something that suits your needs and taste. It should
@@ -123,7 +115,6 @@ reproducible research.
   - [pandas](http://pandas.pydata.org/)
   - [numpy](http://www.numpy.org/)
   - [scipy](https://www.scipy.org/)
-  - [Biopython](http://biopython.org/) 
   - [scikit-learn](http://scikit-learn.org) - Machine learning
   - [scikit-image](http://scikit-image.org/) - Image analysis
   - [matplotlib](http://matplotlib.org/) - 2D plotting library
@@ -131,7 +122,7 @@ reproducible research.
   - [bokeh](http://bokeh.pydata.org)
   - [statsmodel](http://statsmodels.sourceforge.net/)
 
-## 5 License
+## 4 License
 
 This work by Markus Ankenbrand, Florian Goth and Konrad Förstner is
 licensed under
