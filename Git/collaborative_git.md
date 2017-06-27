@@ -1,3 +1,8 @@
+## Stuff before collaborations.
+- Web + git work?
+- What can be meaningfully stored in git?
+- rm and afterwards checkout.
+
 ## Use the web-interface to create a repository ##
 (Master permissions are necessary for that in groups)
 
@@ -43,9 +48,21 @@ Exercise for home: try to store the names in a python data structure and iterate
 
 
 ### Development models / gitlab flow ###
+Exercise with teacher:
+in personal project:
+- create an issue. describe what you want to do.
+- create a branch from that
+- do work
+- submit the merge request.
+- merge it.
 
 ### Issue ###
 What should you describe in an issue?
+- What's wrong?
+- What's missing?
+- What are you going to do?
+- Whose opinions are required?
+
 
 ### Create the feature branch ###
 
