@@ -1,0 +1,15 @@
+Name,Type,Order from Sun,Diameter (Earth=1),Diameter (km),Mass (Earth=1),Mean Distance from Sun (AU),Orbital Period (years),Orbital Eccentricity,Mean Orbital Velocity (km/sec),Rotation Period (days),Mean Temperature at Surface (C),Gravity at Equator (Earth=1),Escape Velocity (km/sec),Number of Moons,Rings
+Sun,Star,0,109,1392000,333000,0,0,0,0,25.05,5600,28,617.7,0,FALSE
+Mercury,Terrestrial planet,1,0.382,4878,0.055,0.39,0.24,0.2056,47.89,58.65,125,0.38,4.25,0,FALSE
+Venus,Terrestrial planet,2,0.949,12104,0.815,0.72,0.62,0.0068,35.03,-243,465,0.9,10.36,0,FALSE
+Earth,Terrestrial planet,3,1,12756,1,1,1,0.0167,29.79,1,15,1,11.18,1,FALSE
+Mars,Terrestrial planet,4,0.532,6787,0.107,1.52,1.88,0.0934,24.13,1.03,-53,0.38,5.02,2,FALSE
+Jupiter,Gas giant,6,11.209,142800,318,5.2,11.86,0.0483,13.06,0.41,-150,2.64,59.54,63,TRUE
+Saturn,Gas giant,7,9.44,120000,95,9.54,29.46,0.056,9.64,0.44,-170,0.93,35.49,62,TRUE
+Uranus,Gas giant,8,4.007,51118,15,19.18,84.01,0.0461,6.81,-0.72,-200,0.89,21.29,27,TRUE
+Neptune,Gas giant,9,3.883,49528,17,30.06,164.8,0.0097,5.43,0.72,-210,1.12,23.71,13,TRUE
+Ceres,Dwarf planet,5,0.076,974.6,0.00016,2.76596,4.599,0.07976,17.882,0.378,-106,0.028,0.51,0,FALSE
+Pluto,Dwarf planet,10,0.18,2300,0.002,39.44,247.7,0.2482,4.74,-6.38,-220,0.06,1.27,3,FALSE
+Haumea,Dwarf planet,11,0.11,1300,0.0007,43.335,285.4,0.18874,4.484,0.163,-223,0.045,0.84,2,FALSE
+Makemake,Dwarf planet,12,0.1255,1420,0.00067,45.791,309.88,0.159,4.419,0.32,-240,0.051,0.8,0,FALSE
+Eris,Dwarf planet,13,0.2115,2326,0.0028,67.6681,557,0.44177,3.436,1,-230,0.082,1.31,1,FALSE
