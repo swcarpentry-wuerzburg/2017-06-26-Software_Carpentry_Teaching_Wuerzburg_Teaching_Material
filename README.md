@@ -75,7 +75,7 @@ introduction for novices to the Unix Shell, Python and git.
 - [GitHub](https://github.com/)
 - [GitLab instance at Uni Würzburg](http://git.physik.uni-wuerzburg.de/)
 
-### 2.5 Open Session [13:00 - 16:00]
+### 2.5 Open Session [15:00 - 16:45]
 
 This session offers space for further exercises, questions and related
 topics like open source / open content licenses, open science practices,
@@ -84,7 +84,7 @@ reproducible research.
 - Fill out the [post- workshop survey of
   SWC](https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id=2017-06-11-Wuerzburg)
 
-### 2.6 Discussion and feedback [16:00 - 16:30]
+### 2.6 Discussion and feedback [16:45 - 17:00]
 
 ## 3 Sources
 
